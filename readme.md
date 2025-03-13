@@ -32,19 +32,6 @@ Open-Kampus adalah sistem informasi akademik internal untuk perguruan tinggi yan
   - [ ] Jadwal Kuliah
 - [ ] Sistem evaluasi dan penilaian akademik
 
-### 🐛 Bug yang Perlu Diperbaiki
-- [ ] Bug 1: [Deskripsi singkat]
-
-### 📚 Dokumentasi
-- [ ] Memperbarui README
-- [ ] Menulis dokumentasi API
-- [ ] Menambahkan contoh penggunaan
-
-### 🧪 Testing
-- [ ] Menulis unit test untuk masing-masing fitur
-- [ ] Melakukan testing integrasi
-- [ ] Melakukan testing performa
-
 ### 🔄 Refactoring
 - [ ] Mengoptimasi stuktur database
 
@@ -100,6 +87,11 @@ Fork repositori ini dan clone ke dalam mesin lokal Anda:
 - Gunakan format coding yang rapi dan terdokumentasi dengan baik.
 - Jika menambahkan fitur baru, sertakan dokumentasi singkat dalam README.
 - Pastikan perubahan telah diuji sebelum mengirim Pull Request.
+
+### 🧪 Testing
+- [ ] Menulis unit test untuk masing-masing fitur
+- [ ] Melakukan testing integrasi
+- [ ] Melakukan testing performa
 
 ## 💬 Diskusi & Dukungan
 Bergabunglah dengan komunitas kami untuk berdiskusi dan mendapatkan dukungan lebih lanjut:
