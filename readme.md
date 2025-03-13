@@ -32,9 +32,6 @@ Open-Kampus adalah sistem informasi akademik internal untuk perguruan tinggi yan
   - [ ] Jadwal Kuliah
 - [ ] Sistem evaluasi dan penilaian akademik
 
-### 🔄 Refactoring
-- [ ] Mengoptimasi stuktur database
-
 ## 🚀 Cara Berkontribusi
 Kami mengundang komunitas untuk ikut serta dalam pengembangan Open-Kampus! Berikut adalah cara berkontribusi:
 
