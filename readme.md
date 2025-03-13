@@ -1,13 +1,52 @@
-# Open-Kampus
+<p align="center"><a href="https://aifa-kreatif.biz.id" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Open Kampus Logo"></a></p>
 
+<p align="center">
+<a href="https://github.com/open-kampus/framework/actions"><img src="https://github.com/open-kampus/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/dt/open-kampus/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/v/open-kampus/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/l/open-kampus/framework" alt="License"></a>
+</p>
+
+## About Open Kampus
 Open-Kampus adalah sistem informasi akademik internal untuk perguruan tinggi yang dikembangkan menggunakan Laravel. Proyek ini bertujuan untuk menyediakan solusi manajemen akademik yang efisien, fleksibel, dan dapat dikembangkan lebih lanjut oleh komunitas.
 
-## 🎯 Fitur Utama
-- Manajemen data mahasiswa, dosen, dan staf
-- Pendaftaran dan pengelolaan mata kuliah
-- Sistem evaluasi dan penilaian akademik
-- Pengelolaan jadwal perkuliahan
-- Laporan akademik dan administrasi
+## 🎯 Task List dan Rencana Pengembangan
+
+### 🚀 Fitur Utama
+- [ ] Manajemen Data Master
+  - [ ] Mahasiswa
+  - [ ] Pegawai
+  - [ ] Orang Tua
+  - [ ] Fakultas
+  - [ ] Program Studi
+  - [ ] Periode
+  - [ ] Mata Kuliah
+  - [ ] Kelas
+  - [ ] Gedung
+  - [ ] Ruangan
+  - [ ] User
+- [ ] Manajemen Data Administrasi
+  - [ ] KRS
+  - [ ] KHS
+  - [ ] Transkrip Nilai Sementara
+  - [ ] Jadwal Kuliah
+- [ ] Sistem evaluasi dan penilaian akademik
+
+### 🐛 Bug yang Perlu Diperbaiki
+- [ ] Bug 1: [Deskripsi singkat]
+
+### 📚 Dokumentasi
+- [ ] Memperbarui README
+- [ ] Menulis dokumentasi API
+- [ ] Menambahkan contoh penggunaan
+
+### 🧪 Testing
+- [ ] Menulis unit test untuk masing-masing fitur
+- [ ] Melakukan testing integrasi
+- [ ] Melakukan testing performa
+
+### 🔄 Refactoring
+- [ ] Mengoptimasi stuktur database
 
 ## 🚀 Cara Berkontribusi
 Kami mengundang komunitas untuk ikut serta dalam pengembangan Open-Kampus! Berikut adalah cara berkontribusi:
