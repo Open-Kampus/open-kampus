@@ -1,6 +1,6 @@
-# Open-Campus
+# Open-Kampus
 
-Open-Campus adalah sistem informasi akademik internal untuk perguruan tinggi yang dikembangkan menggunakan Laravel. Proyek ini bertujuan untuk menyediakan solusi manajemen akademik yang efisien, fleksibel, dan dapat dikembangkan lebih lanjut oleh komunitas.
+Open-Kampus adalah sistem informasi akademik internal untuk perguruan tinggi yang dikembangkan menggunakan Laravel. Proyek ini bertujuan untuk menyediakan solusi manajemen akademik yang efisien, fleksibel, dan dapat dikembangkan lebih lanjut oleh komunitas.
 
 ## 🎯 Fitur Utama
 - Manajemen data mahasiswa, dosen, dan staf
@@ -10,12 +10,12 @@ Open-Campus adalah sistem informasi akademik internal untuk perguruan tinggi yan
 - Laporan akademik dan administrasi
 
 ## 🚀 Cara Berkontribusi
-Kami mengundang komunitas untuk ikut serta dalam pengembangan Open-Campus! Berikut adalah cara berkontribusi:
+Kami mengundang komunitas untuk ikut serta dalam pengembangan Open-Kampus! Berikut adalah cara berkontribusi:
 
 ### 1. Fork & Clone Repository
 Fork repositori ini dan clone ke dalam mesin lokal Anda:
 ```bash
- git clone https://github.com/username/open-campus.git
+ git clone https://github.com/open-kampus/open-kampus.git
 ```
 
 ### 2. Setup Proyek
@@ -54,7 +54,7 @@ Fork repositori ini dan clone ke dalam mesin lokal Anda:
    ```bash
    git push origin fitur-baru
    ```
-4. Buat Pull Request ke branch `main` dari repository utama.
+4. Buat Pull Request ke branch `master` dari repository utama.
 
 ## 🛠 Panduan Kontribusi
 - Pastikan kode yang ditambahkan sesuai dengan standar Laravel.
@@ -69,7 +69,7 @@ Bergabunglah dengan komunitas kami untuk berdiskusi dan mendapatkan dukungan leb
 - **Discord/Telegram**: (Tambahkan tautan jika tersedia)
 
 ## 📜 Lisensi
-Open-Campus dikembangkan di bawah lisensi **MIT**, sehingga dapat digunakan dan dikembangkan secara bebas oleh siapa saja.
+Open-Kampus dikembangkan di bawah lisensi **Apache Licence 2.0**, sehingga dapat digunakan dan dikembangkan secara bebas oleh siapa saja.
 
 ---
 Mari bersama membangun ekosistem akademik yang lebih baik dengan Open-Campus! 🎓🚀
