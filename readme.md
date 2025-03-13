@@ -1,7 +1,7 @@
 <p align="center"><a href="https://aifa-kreatif.biz.id" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Open Kampus Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/open-kampus/framework/actions"><img src="https://github.com/open-kampus/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/Open-Kampus/open-kampus/actions"><img src="https://github.com/open-kampus/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/dt/open-kampus/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/v/open-kampus/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/open-kampus/framework"><img src="https://img.shields.io/packagist/l/open-kampus/framework" alt="License"></a>
